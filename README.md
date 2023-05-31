@@ -27,4 +27,4 @@ To begin exploring the OrangeHRM Demo Website for Cypress Project, follow the se
 
 Note: This demo website is solely intended for educational and demonstration purposes. It is not a production-ready deployment of OrangeHRM.
 
-#Set up
+# Set up
