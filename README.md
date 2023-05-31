@@ -1,8 +1,5 @@
 # OrangeHRM
 Welcome to the OrangeHRM Demo Website for Cypress Project!
-GitHub Description for Using OrangeHRM App as a Demo Website for Cypress Project:
-
-Welcome to the OrangeHRM Demo Website for Cypress Project!
 
 This GitHub repository serves as a demonstration of how to leverage OrangeHRM, a comprehensive open-source human resource management (HRM) application, as a test automation target using the Cypress framework.
 
