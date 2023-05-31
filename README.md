@@ -26,3 +26,5 @@ Get Started:
 To begin exploring the OrangeHRM Demo Website for Cypress Project, follow the setup instructions and refer to the documentation provided in this repository. Happy testing!
 
 Note: This demo website is solely intended for educational and demonstration purposes. It is not a production-ready deployment of OrangeHRM.
+
+#Set up
