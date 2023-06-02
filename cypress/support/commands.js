@@ -23,3 +23,12 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+// Import POM method
+import { LogIn } from '../support/pom-objects/Authorisation.cy'
+
+Cypress.Commands.add("loginUser", (username, password) => {
+  cy.get(LogIn.constUserName).type(username)
+  cy.get(LogIn.constPassword).type(password)
+  cy.get(LogIn.constLogInButton).click()
+});
