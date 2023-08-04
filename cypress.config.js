@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: 'nn69xo',
   env: {
     validUser: {
       username: 'Admin',
@@ -21,8 +22,8 @@ module.exports = defineConfig({
     reporterOptions: {
       reportDir: "cypress/reports/mocha",
       overwrite: false,
-      html: false,
-      json: true
+      html: true,
+      json: false
     }
   }
 });
