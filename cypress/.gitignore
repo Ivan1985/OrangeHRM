@@ -1,0 +1,28 @@
+# Cypress specific
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+cypress/reports/
+
+# Node modules and logs
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Operating System specific
+.DS_Store           # macOS folder config file
+Thumbs.db           # Windows image file cache
+Desktop.ini         # Windows desktop icon settings
+$RECYCLE.BIN/       # Folder which Windows Explorer uses to recycle files
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.log
+
+# Other
+*.log
+*.tmp
